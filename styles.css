@@ -1,6 +1,9 @@
 h1 {
   font-family: Brush Script MT
 }
+h1 {
+  font-size: 40px;
+}
 p {
   font-family: Helvetica
 }
